@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.fengyue95.noRepeatSubmitspringbootstarter.intercepter.NoRepeatSubmitAutoConfiguration
